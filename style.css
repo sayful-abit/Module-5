@@ -100,8 +100,7 @@ nav >h3{
     width: 500px;
 }
 .about{
-    padding: 130px;
-    margin: 130px 0px;
+    padding: 90px;
     background-color: #FFF8F3;
     margin: 75px 100px 0px 100px;
 }
@@ -111,4 +110,10 @@ nav >h3{
 }
 .about-info{
     text-align: center;
+}
+.What-I-do{
+    margin: 75px;
+}
+#what-i-do{
+    padding: 0px 150px;
 }
