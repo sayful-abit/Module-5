@@ -1,8 +1,8 @@
 /* Shere Style */
-*{
+/* *{
     margin: 0;
     padding: 0;
-}
+} */
 body{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -28,6 +28,7 @@ padding: 15px 35px 15px 35px;
     text-align: center;
     font-size: 30px;
     font-weight: 700;
+    /* padding-bottom: 40px; */
 }
 .section-detail{
     color: #474747;
@@ -41,7 +42,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     margin: 0 100px;
-    padding-top: 25px;
+   
 }
 nav >ul{
     list-style: none;
@@ -142,4 +143,14 @@ nav >h3{
 .skill-description{
     color: #474747;
     padding-top: 12px;
+}
+.resume-column-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 550;
+}
+.resumi-containner{
+    display: flex;
+    gap: 35px;
+    margin: 0px 170px 35px 170px;
 }
