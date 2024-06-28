@@ -19,10 +19,13 @@ font-size: 20px;
 font-weight: 700;
 padding: 15px 35px 15px 35px;
 }
+
+/* Nav Style */
 nav{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 150px;
 }
 nav >ul{
     list-style: none;
@@ -36,4 +39,23 @@ nav >h3{
     font-size: 40px;
     font-weight: 800;
     line-height: normal;
+}
+
+/* Header Style */
+
+.header{
+   background-color: #FFF8F3; 
+}
+.button-border{
+    border: 2px solid #FD6E0A;
+    border-radius: 5px;
+    padding: 15px 35px;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-img{
+    width: 500px;
 }
