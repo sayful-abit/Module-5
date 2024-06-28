@@ -19,6 +19,17 @@ font-size: 20px;
 font-weight: 700;
 padding: 15px 35px 15px 35px;
 }
+.section-head{
+    color: #474747;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.section-detail{
+    color: #474747;
+    text-align: center;
+    font-size: 16px;
+}
 
 /* Nav Style */
 nav{
@@ -83,8 +94,14 @@ nav >h3{
 }
 .banner-content{
     max-width: 500px;
-    padding-bottom: 75px;
+    /* padding-bottom: 75px; */
 }
 .banner .profile-img{
     width: 500px;
+}
+.about{
+    padding: 130px;
+    margin: 130px 0px;
+    background-color: #FFF8F3;
+    margin: 35px 100px 0px 100px;
 }
