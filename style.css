@@ -154,3 +154,26 @@ nav >h3{
     gap: 35px;
     margin: 0px 170px 35px 170px;
 }
+.resume-item-title{
+    color: #474747;
+    font-size: 22px;
+}
+.resume-item-institute{
+    color: #474747;
+    font-size: 18px;
+}
+.resumi-item-description{
+    color: #474747;
+    font-size: 12px;
+}
+.resume-item{
+    padding-bottom: 10px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 30px;
+}
+.download-cv a{
+    text-decoration: none;
+}
+
