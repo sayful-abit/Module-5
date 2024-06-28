@@ -212,5 +212,11 @@ footer{
 .contact-form input, a{
     text-decoration: none;
 }
+.coppy-description p{
+    font-size: medium;
+    color: #474747;
+    margin: 25px 22px;
+    text-align: center;
+}
 
 
