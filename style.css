@@ -103,5 +103,12 @@ nav >h3{
     padding: 130px;
     margin: 130px 0px;
     background-color: #FFF8F3;
-    margin: 35px 100px 0px 100px;
+    margin: 75px 100px 0px 100px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
 }
