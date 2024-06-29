@@ -66,9 +66,9 @@ nav >h3{
 
 .header{
    background-color: #FFF8F3; 
-   background-image: url(/images/header_bg.png);
+   background-image: url(/images/header_bg.png), url('/images/developer.png');
    background-repeat: no-repeat;
-   background-position: bottom right;
+   background-position: bottom right, top left;
    
 }
 .button-border{
@@ -77,6 +77,7 @@ nav >h3{
     padding: 15px 35px;
     background-color: #FFF8F3;
 }
+
 .banner{
     padding: 30px 30px 0 100px;
     display: flex;
@@ -218,5 +219,6 @@ footer{
     margin: 25px 22px;
     text-align: center;
 }
+
 
 
