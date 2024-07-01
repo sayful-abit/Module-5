@@ -66,7 +66,7 @@ nav >h3{
 
 .header{
    background-color: #FFF8F3; 
-   background-image: url(/images/header_bg.PNG), url('/images/developer.PNG');
+   background-image: url("/images/header_bg.png"), url("/images/developer.png");
    background-repeat: no-repeat;
    background-position: bottom right, top left;
    
